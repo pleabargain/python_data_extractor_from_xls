@@ -9,7 +9,8 @@ The second prompt with edits worked more or less out of the box!
 
 10 minutes of thinking saved me an hour of mind numbing copy and paste!
 
-
+# URL to code
+https://github.com/pleabargain/python_data_extractor_from_xls
 
 
 # XLSX Data Extractor
