@@ -1,0 +1,17 @@
+you are a python script writer. 
+you are a data scientist extracting data from spreadsheets. write a python script . 
+generate a UI that will allow user to navigate to location of * .xlsx files. 
+Allow user to select multiple .xlsx files. 
+Load XLSX files. 
+open the files. 
+print the name of each sheet in the xslx file. 
+Ignore all sheets named "Commission" in XLSX files. 
+
+Number the sheets. 
+prompt for User input: integers of number of selected sheet or string "all" or "a" to select all XLSX files.
+Analyze column names in the sheets
+Sum the value of the "No of Nights" column name in each sheet. 
+notify user that the sums are completed
+print the name of the sheet and the sum to the console
+prompt user for file name. 
+save as csv the name-of-the-sheet, column-name, sum
